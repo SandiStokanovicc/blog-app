@@ -1,6 +1,6 @@
 A project made for advancing my knowledge of Django.
 
-##What I learned about during this project:
+<h1>What I learned about during this project:</h1>
 -Creating custom model managers 
 -Using absolute urls for a SEO friendly website
 -Pagination in Django
