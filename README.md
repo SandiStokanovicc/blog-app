@@ -10,3 +10,4 @@ A project made for advancing my knowledge of Django.
 <p>Creating RSS feeds </p>
 <p>Connecting Django to Third-Party Databases </p>
 <p>Using PostgreSQL for creating an advanced search engine </p>
+<p>Using .env file for storing secrets separately from the settings.py file </p>
